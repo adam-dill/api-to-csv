@@ -14,7 +14,7 @@ ENDPOINT = 'https://adamdill.com/users/csv'
 HEADERS = {
     'client_id':'1234',
     'client_secret':'1234',
-    'x-coorilation-id':f"{uuid.uuid4()}",
+    'x-coorelation-id':f"{uuid.uuid4()}",
 }
 
 
