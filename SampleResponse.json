@@ -1,0 +1,124 @@
+{
+    "users": [
+        {
+            "first_name": "Blake",
+            "last_name": "Fellos",
+            "email": "bfellos0@sbwire.com",
+            "ssn": "129-04-9000"
+        },
+        {
+            "first_name": "Dick",
+            "last_name": "Connolly",
+            "email": "dconnolly1@domainmarket.com",
+            "ssn": "528-03-3145"
+        },
+        {
+            "first_name": "Kylie",
+            "last_name": "Thomtson",
+            "email": "kthomtson2@hc360.com",
+            "ssn": "137-07-8327"
+        },
+        {
+            "first_name": "Juana",
+            "last_name": "Pickering",
+            "email": "jpickering3@quantcast.com",
+            "ssn": "791-19-5180"
+        },
+        {
+            "first_name": "Barbabas",
+            "last_name": "Boules",
+            "email": "bboules4@japanpost.jp",
+            "ssn": "776-46-5999"
+        },
+        {
+            "first_name": "Millie",
+            "last_name": "Callaghan",
+            "email": "mcallaghan5@yale.edu",
+            "ssn": "604-54-2273"
+        },
+        {
+            "first_name": "Carr",
+            "last_name": "Gosneye",
+            "email": "cgosneye6@examiner.com",
+            "ssn": "248-51-6185"
+        },
+        {
+            "first_name": "Koren",
+            "last_name": "Klein",
+            "email": "kklein7@spiegel.de",
+            "ssn": "775-41-9985"
+        },
+        {
+            "first_name": "Pembroke",
+            "last_name": "Giannazzo",
+            "email": "pgiannazzo8@princeton.edu",
+            "ssn": "711-80-9789"
+        },
+        {
+            "first_name": "Abbi",
+            "last_name": "Burgett",
+            "email": "aburgett9@live.com",
+            "ssn": "188-87-5071"
+        },
+        {
+            "first_name": "Findley",
+            "last_name": "Crann",
+            "email": "fcranna@microsoft.com",
+            "ssn": "698-03-7604"
+        },
+        {
+            "first_name": "Torin",
+            "last_name": "Champagne",
+            "email": "tchampagneb@yellowpages.com",
+            "ssn": "607-03-6867"
+        },
+        {
+            "first_name": "Bennie",
+            "last_name": "Venney",
+            "email": "bvenneyc@indiegogo.com",
+            "ssn": "808-41-9513"
+        },
+        {
+            "first_name": "Cissiee",
+            "last_name": "Kamenar",
+            "email": "ckamenard@squidoo.com",
+            "ssn": "573-50-5768"
+        },
+        {
+            "first_name": "Lissi",
+            "last_name": "McKibbin",
+            "email": "lmckibbine@delicious.com",
+            "ssn": "784-57-7755"
+        },
+        {
+            "first_name": "Harlin",
+            "last_name": "Maytom",
+            "email": "hmaytomf@indiegogo.com",
+            "ssn": "348-04-6985"
+        },
+        {
+            "first_name": "Jaye",
+            "last_name": "Knapp",
+            "email": "jknappg@accuweather.com",
+            "ssn": "433-92-4787"
+        },
+        {
+            "first_name": "Kathryn",
+            "last_name": "Elvidge",
+            "email": "kelvidgeh@youtube.com",
+            "ssn": "424-71-0481"
+        },
+        {
+            "first_name": "Mercedes",
+            "last_name": "Ambroisin",
+            "email": "mambroisini@unblog.fr",
+            "ssn": "171-06-7141"
+        },
+        {
+            "first_name": "Anderea",
+            "last_name": "Foresight",
+            "email": "aforesightj@deviantart.com",
+            "ssn": "727-66-8343"
+        }
+    ]
+}
