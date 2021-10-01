@@ -5,14 +5,21 @@ fetchDAtaCSV.py - expects the response to be a CSV file.
 fetchDataJSON.py - expects the response to be in JSON.
 
 
-args:
+## args:
 * [OPTIONAL] -o outputfile
 
-Example:
+# Example:
 ```
 python3 fetchDataJSON.py -o output.csv
 ```
 or
 ```
 python3 fetchDataJSON.py -o output.csv
+```
+
+# Requirements:
+
+Python module requests is required.
+```
+python -m pip install requests
 ```
