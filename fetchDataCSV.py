@@ -1,8 +1,5 @@
 #
-#   Calls an api and converts the reponse to CSV.
-#   For simple JSON data consisting of key and 
-#   value pairs, keys will be headers for the CSV 
-#   file and values the descriptive data.
+#   Calls an api that responds with a CSV and saves it to disc.
 #
 #   args: 
 #   [OPTIONAL] -o <outputfile>

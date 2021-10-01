@@ -30,11 +30,11 @@ def main(argv):
     try:
         opts, args = getopt.getopt(argv,"ho:",["ofile="])
     except getopt.GetoptError:
-        print("fetchData.py -o <outputfile>")
+        print("fetchDataJSON.py -o <outputfile>")
         sys.exit(2)
     for opt, arg in opts:
         if opt == '-h':
-            print("fetchData.py -o <outputfile>")
+            print("fetchDataJSON.py -o <outputfile>")
             sys.exit()
         elif opt in ("-o", "--ofile"):
             outputfile = arg
